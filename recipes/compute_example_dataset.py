@@ -13,5 +13,5 @@ example_ds_df = pd.DataFrame(data = pd.date_range(start = '2022-01-25', end = '2
 
 
 # Write recipe outputs
-example_dataset = dataiku.Dataset("example_ds_df")
-example_dataset.write_with_schema(example_dataset_df)
+example_dataset = dataiku.Dataset("example_dataset")
+example_dataset.write_with_schema(example_ds_df)
