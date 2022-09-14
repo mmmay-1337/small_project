@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1663133993809
+    "lastModifiedOn": 1663134624466
   },
   "creationTag": {
     "versionNumber": 0,
@@ -86,8 +86,10 @@
     }
   },
   "schema": {
-    "columns": [],
-    "userModified": true
+    "columns": [
+      {"name":"0","type":"date"}
+    ],
+    "userModified": false
   },
   "dkuProperties": [],
   "metrics": {
