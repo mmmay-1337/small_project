@@ -131,7 +131,8 @@
     },
     "dkuProperties": []
   },
-  "name": "small project (michelle_branch)",
+  "name": "small project",
+  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -187,11 +188,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1663303082417
+    "lastModifiedOn": 1663303620389
   },
   "creationTag": {
     "versionNumber": 0,
@@ -200,10 +201,8 @@
     },
     "lastModifiedOn": 1663133862952
   },
-  "shortDesc": "The project *small project* was created by Administrator on Sep 14th 2022\nThe project *SMALL_PROJECT_MICHELLE_BRANCH* was copied from *SMALLPROJECT* by Administrator on Sep 16th 2022",
-  "tags": [
-    "duplicated"
-  ],
+  "shortDesc": "The project *small project* was created by Administrator on Sep 14th 2022",
+  "tags": [],
   "customFields": {},
   "checklists": {
     "checklists": [
