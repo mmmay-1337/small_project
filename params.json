@@ -132,7 +132,6 @@
     "dkuProperties": []
   },
   "name": "small project",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -188,11 +187,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1663302761862
+    "lastModifiedOn": 1663303080019
   },
   "creationTag": {
     "versionNumber": 0,
@@ -202,7 +201,9 @@
     "lastModifiedOn": 1663133862952
   },
   "shortDesc": "The project *small project* was created by Administrator on Sep 14th 2022",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
